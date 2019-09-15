@@ -8,5 +8,4 @@
 
 Valem:  Kehamassiindeksi leidmiseks jagatakse kehakaal kilogrammides pikkuse ruuduga meetrites.
 
-
-tähtaeg: 27. september 2019
+Valmis projektikood peab olema üles laaditud Teie GitHub’i. Tähtaeg on 27. september 2019. Palun saata link oma rep​ositooriumile mulle meiliga.
