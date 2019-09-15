@@ -7,3 +7,6 @@
 3. Kui kasutaja vanus on 20 - 65 vahemikus, siis programm arvutab kehamassiindeksit ja teavitab kasutajat selle seisust (vaata tabel).
 
 Valem:  Kehamassiindeksi leidmiseks jagatakse kehakaal kilogrammides pikkuse ruuduga meetrites.
+
+
+tähtaeg: 27. september 2019
