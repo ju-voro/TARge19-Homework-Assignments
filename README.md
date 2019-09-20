@@ -7,6 +7,12 @@
 3. Kui kasutaja vanus on 20 - 60 vahemikus, siis programm arvutab kehamassiindeksit ja teavitab kasutajat selle seisust (vaata tabel).
 
 Valem:  Kehamassiindeksi leidmiseks jagatakse kehakaal **kilogrammides** pikkuse ruuduga **meetrites**.
+```
+double weight
+```
+```
+double height;
+```
 
 Valmis projektikood peab olema üles laaditud Teie GitHub’i. Tähtaeg on 27. september 2019. Palun saata link oma rep​ositooriumile mulle meiliga.
 
