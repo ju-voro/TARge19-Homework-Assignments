@@ -8,7 +8,7 @@
 
 Valem:  Kehamassiindeksi leidmiseks jagatakse kehakaal **kilogrammides** pikkuse ruuduga **meetrites**.
 ```
-double weight
+double weight;
 ```
 ```
 double height;
