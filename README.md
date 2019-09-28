@@ -1,9 +1,9 @@
 # TARge19-Homework-Assignment-2
 ## Deadline 11.10.2019
 *C#, Console, IF-Statements, Data Types*
-Paber, kivi, käärid
-Osalejad: arvuti, kasutaja
-Mängu reeglid:
+## Paber, kivi, käärid
+### Osalejad: arvuti, kasutaja
+#### Mängu reeglid:
 1. Programm tervitab kasutajat nimepidi ja palub ta sisestada “paber”/”paper”, “kivi”/”rock” või “käärid”/scissors”
 2. Arvuti genereerib juhuslikku numbrit vahemikus ühest kolmeni (kaasa arvatud). 1 - paaber, 2 - kivi, 3 - käärid.
 3. Reeglid: käärid lõikavad paberit, paber katab kivi, kivi nürib käärid. Iga võidu eest saab osaleja, kas arvuti või mängia ühe punkti.
