@@ -1,4 +1,5 @@
 # TARge19-Homework-Assignment-2
+## Deadline 11.10.2019
 *C#, Console, IF-Statements, Data Types*
 Paber, kivi, käärid
 Osalejad: arvuti, kasutaja
@@ -12,6 +13,7 @@ Mäng lõpeb siis, kui üks osalejast saab kolm punkti ja võidab mängu.
 
 # TARge19-Homework-Assignment-1
 *C#, Console, IF-Statements, Data Types*
+## Deadline 27.09.2019
 
 ### Kasutades valemit ja tabelit aadressil https://www.kalkulaator.ee/et/kehamassiindeks loo kehamassiindeksi kalkulaator. 
 1. Programm küsib kasutaja nime ja vastuseks tervitab teda nimepidi.
